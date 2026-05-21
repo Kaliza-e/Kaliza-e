@@ -1,11 +1,11 @@
 <!-- 🌌 HERO -->
 <!-- 🌌 STARFIELD HERO -->
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f5ff&height=160&section=header"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome-banner.gif" width="100%"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:0f172a&height=120&section=header&text=✨%20KALIZA%20ESTHER%20✨&fontSize=38&fontColor=00f5ff&animation=fadeIn" />
