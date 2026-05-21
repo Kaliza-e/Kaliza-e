@@ -1,6 +1,9 @@
 <!-- 🌌 HERO -->
 <!-- 🌌 STARFIELD HERO -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f5ff&height=120&section=footer"/>
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome-banner.gif" width="100%"/>
 </p>
 
@@ -25,7 +28,7 @@
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-# 🛰️ CURRENT MISSION
+## 🛰️ CURRENT MISSION
 
 ### 🔭 Projects I’m building
 - 🛡️ **SecureShake** — Emergency alert mobile app (React Native + backend APIs)
@@ -43,42 +46,42 @@
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-# ⚡ TECH ARSENAL
+## ⚡ TECH ARSENAL
 
-## 🧠 Languages
+### 🧠 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B)
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react)
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-## 🌐 Frontend
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwind-css)
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-## ⚙️ Backend
+### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs)
 ![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel)
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-## 🗄️ Databases
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-0A0A0A?style=for-the-badge&logo=postgresql)
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-## 🎨 Ui&Ux Design System
+### 🎨 Ui&Ux Design System
 
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva)
@@ -108,7 +111,7 @@
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-### Github 
+## Github Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaliza-e&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -123,7 +126,7 @@
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-# 🎨 DESIGN + DEVELOPMENT PHILOSOPHY
+## 🎨 DESIGN + DEVELOPMENT PHILOSOPHY
 
 > “Great products are not just built — they are *designed to feel alive*.”
 
@@ -135,12 +138,12 @@ I focus on:
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-# 💼 HIRE ME / COLLABORATION
+# 💼 HIRE ME 
 
 I’m open to:
-- 📱 Mobile App Development (React Native)
+- 📱 Mobile App Development 
 - 🌐 Full-Stack Development
-- 🎨 UI/UX Design Projects (Figma / Canva)
+- 🎨 UI/UX Design Projects 
 - 🚀 Startup & innovation collaborations
 - 🧑‍💻 Internships & remote roles
 
@@ -148,7 +151,7 @@ I’m open to:
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-# 🌍 CONNECT WITH ME
+## 🌍 CONNECT WITH ME
 
 <p align="center">
 <a href="mailto:kalizaesther5@gmail.com">
@@ -163,7 +166,7 @@ I’m open to:
 </p>
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-# 🐍 CONTRIBUTION SNAKE (MOTION VISUAL)
+## 🐍 CONTRIBUTIONS
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
