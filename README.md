@@ -1,58 +1,158 @@
-# 💫 About Me:
-👋, I’m **Kaliza Esther**  <br>A **Full-Stack Developer & UI/UX Designer**<br><br>🎓 Computer Science & IoT Enthusiast  <br>💻 Full-Stack Developer | UI/UX Designer | Systems Builder  <br>🚀 Passionate about building scalable systems, intuitive user experiences, and real-world tech solutions<br><br>---<br><br>## 🧠 About Me<br><br>🔭 Currently working on:<br>- Full-stack projects like **SecureShake**, **Terimbere**, and **IsokoSense**<br>- Designing and developing user-centered digital products with clean UI/UX and solid backend systems<br><br>🌱 Currently learning:<br>- System Design & Software Architecture  <br>- RESTful APIs & Backend Engineering  <br>- Databases (SQL & NoSQL)  <br>- UI/UX Design principles and interaction design  <br>- Robotics & IoT integration concepts  <br><br>🎯 Career Goals:<br>- Become a professional **Full-Stack Software Engineer & UI/UX Designer**<br>- Grow into a **System Architect & IoT Engineer**<br>- Build intelligent, scalable, and beautifully designed systems that solve real-world problems<br><br>🤝 Open to:<br>- Collaboration on design + development projects  <br>- UI/UX design opportunities  <br>- Software development internships & tech opportunities  <br>- Learning and innovation-driven teams  
+<!-- 🌌 HERO (FUTURISTIC BRAND INTRO) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Kaliza%20Esther&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-
-## 🌐 Socials:
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kalizaesther) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kal1_20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kalizaesther8368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalizaesther5@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Bootstrap](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kaliza-e&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=KALIXA22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KALIXA22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;UI%2FUX+Designer;System+Architect+in+Progress;Building+real-world+impact+systems&center=true&width=600&height=45">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=KALIXA22&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 DIGITAL IDENTITY
+
+> 💡 I design and build **scalable systems, intuitive interfaces, and intelligent digital solutions** that connect real-world problems to clean technology.
+
+- 🎓 Computer Science & IoT Enthusiast  
+- 🧠 Full-Stack Developer + UI/UX Designer  
+- ⚙️ System Builder | Future Architect  
+- 🚀 Focus: Impact-driven tech systems  
+
+---
+
+# 🛰️ CURRENT MISSION
+
+### 🔭 What I’m building
+- 🛡️ SecureShake — secure communication system  
+- 🌍 Terimbere — empowerment platform  
+- 📊 IsokoSense — smart market insights system  
+
+### 🌱 What I’m learning
+- System Design & Scalable Architecture  
+- Advanced Backend Engineering (APIs, microservices)  
+- Databases (SQL + NoSQL optimization)  
+- UI/UX interaction psychology  
+- IoT + embedded systems integration  
+
+---
+
+# ⚡ TECH ARSENAL
+
+## 🧠 Core Languages
+![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
+
+## 🌐 Frontend
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwind-css)
+
+## ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs)
+![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel)
+
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/Postgres-0A0A0A?style=for-the-badge&logo=postgresql)
+
+---
+
+# 🚀 PROJECT SHOWCASE (PORTFOLIO STYLE)
+
+<p align="center">
+
+### 🛡️ SecureShake
+Secure real-time communication system  
+→ Authentication • Encryption • APIs  
+
+### 🌍 Terimbere
+Community empowerment digital platform  
+→ UI/UX focused • Scalable backend  
+
+### 📊 IsokoSense
+Smart market intelligence system  
+→ Data analysis • Dashboard UI • Insights  
+
+</p>
+
+---
+
+# 📊 LIVE GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaliza-e&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaliza-e&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaliza-e&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🧠 DEVELOPER PHILOSOPHY
+
+> “Good design is invisible. Great systems feel effortless.”
+
+I believe in:
+- Clean architecture over complexity  
+- User experience over unnecessary features  
+- Scalable systems over quick hacks  
+- Purpose-driven engineering  
+
+---
+
+# 💼 HIRE ME / COLLABORATION ZONE
+
+If you're looking for someone who can:
+- Build **full-stack applications**
+- Design **modern UI/UX systems**
+- Develop **scalable backend APIs**
+- Turn ideas into **real working products**
+
+### 👉 I’m open to:
+- Internships  
+- Freelance projects  
+- Startup collaborations  
+- Remote developer roles  
+
+📩 Email: **kalizaesther5@gmail.com**
+
+---
+
+# 🌍 SOCIALS
+
+<p align="center">
+<a href="mailto:kalizaesther5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+<a href="https://youtube.com/@@kalizaesther8368">
+  <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube">
+</a>
+<a href="https://tiktok.com/@kal1_20">
+  <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok">
+</a>
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE (MOTION EFFECT)
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# ⚡ FINAL CYBER FOOTER
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
+</p>
