@@ -1,13 +1,17 @@
 <!-- 🌌 HERO -->
+<!-- 🌌 STARFIELD HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Kaliza%20Esther&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome-banner.gif" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Mobile+App+Developer+(React+Native);UI%2FUX+Designer;System+Architect+in+Progress;Building+real-world+impact+systems&center=true&width=650&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:0f172a&height=120&section=header&text=✨%20KALIZA%20ESTHER%20✨&fontSize=38&fontColor=00f5ff&animation=fadeIn" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Floating+in+the+Code+Universe;Mobile+Developer+%7C+UI%2FUX+Designer;Full-Stack+Engineer+%7C+System+Builder&center=true&width=650&height=45&color=00f5ff">
+</p>
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 # 🌐 WHO AM I?
 
@@ -19,7 +23,7 @@
 - 🎨 UI/UX Designer (Figma + Canva)  
 - ⚙️ System Builder | Future Architect  
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 # 🛰️ CURRENT MISSION
 
@@ -28,7 +32,7 @@
 - 🌍 **Terimbere** — Cooperative management system (web + mobile vision)
 - 📊 **IsokoSense** — Real-time water safety & monitoring system (IoT + dashboard)
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 ### 🌱 What I’m mastering
 - System Design & Scalable Architecture  
@@ -37,7 +41,7 @@
 - UI/UX design systems in **Figma & Canva**  
 - IoT + smart sensing systems  
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 # ⚡ TECH ARSENAL
 
@@ -46,62 +50,59 @@
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B)
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 ## 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react)
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 ## 🌐 Frontend
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwind-css)
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 ## ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs)
 ![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel)
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 ## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-0A0A0A?style=for-the-badge&logo=postgresql)
 
----
-
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 ## 🎨 UI/UX & DESIGN
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-0A0A0A?style=for-the-badge&logo=adobexd)
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-# 🚀 PROJECT SHOWCASE
+# 🚀 PROJECTS
 
 ### 🛡️ SecureShake
-Emergency alert mobile app for unsafe zones  
-→ React Native • Authentication • APIs • Notifications  
+✨ Emergency mobile alert system  
+→ React Native • APIs • Real-time safety network  
 
----
+
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 ### 🌍 Terimbere
-Cooperative management system  
-→ UI/UX design system • Scalable backend • Mobile-first thinking  
+✨ Cooperative digital ecosystem  
+→ UI/UX design • Scalable backend systems  
 
----
+
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 ### 📊 IsokoSense
-Real-time water monitoring system  
-→ IoT integration • Data dashboards • Alerts & insights  
-
----
-
-# 📊 GITHUB ANALYTICS
+✨ Smart water monitoring system  
+→ IoT sensors • analytics • alert system  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaliza-e&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -115,7 +116,7 @@ Real-time water monitoring system
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaliza-e&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 # 🎨 DESIGN + DEVELOPMENT PHILOSOPHY
 
@@ -127,7 +128,7 @@ I focus on:
 - 📱 Mobile-first experiences  
 - ⚡ Performance + scalability  
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 # 💼 HIRE ME / COLLABORATION
 
@@ -140,7 +141,7 @@ I’m open to:
 
 📩 Email: **kalizaesther5@gmail.com**
 
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 # 🌍 CONNECT WITH ME
 
@@ -155,8 +156,7 @@ I’m open to:
   <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok">
 </a>
 </p>
-
----
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 # 🐍 CONTRIBUTION SNAKE (MOTION VISUAL)
 
@@ -164,8 +164,10 @@ I’m open to:
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </p>
 
----
+<p align="center">
+  ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f5ff&height=120&section=footer"/>
 </p>
