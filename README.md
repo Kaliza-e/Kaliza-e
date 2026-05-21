@@ -1,7 +1,7 @@
 <!-- 🌌 HERO -->
 <!-- 🌌 STARFIELD HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f5ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f5ff&height=160&section=header"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome-banner.gif" width="100%"/>
@@ -117,11 +117,10 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaliza-e&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaliza-e&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kaliza-e&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
