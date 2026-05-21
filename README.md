@@ -1,11 +1,11 @@
 <!-- 🌌 HERO -->
 <!-- 🌌 STARFIELD HERO -->
-<!--<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f5ff&height=160&section=header"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome-banner.gif" width="100%"/>
-</p> -->
+</p> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:0f172a&height=120&section=header&text=✨%20KALIZA%20ESTHER%20✨&fontSize=38&fontColor=00f5ff&animation=fadeIn" />
@@ -112,13 +112,13 @@
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 ## Github Analytics
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaliza-e&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaliza-e&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p>-->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kaliza-e&theme=tokyonight&hide_border=true" />
 </p>
