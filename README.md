@@ -13,7 +13,7 @@
 </p>
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-# 🌐 WHO AM I?
+## 🌐 WHO AM I?
 
 > 💡 I build **digital products that combine clean UI/UX, scalable systems, and real-world impact.**
 
@@ -77,14 +77,13 @@
 ![PostgreSQL](https://img.shields.io/badge/Postgres-0A0A0A?style=for-the-badge&logo=postgresql)
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
-<div align="center">
-### 🎨 UI/UX DESIGN SYSTEM
+
+##🎨 UI/UX DESIGN SYSTEM
 
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-0A0A0A?style=for-the-badge&logo=adobexd)
 
-</div>
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 # 🚀 PROJECTS
@@ -109,6 +108,7 @@
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
+### Github 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaliza-e&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
