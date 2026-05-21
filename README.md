@@ -77,11 +77,14 @@
 ![PostgreSQL](https://img.shields.io/badge/Postgres-0A0A0A?style=for-the-badge&logo=postgresql)
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
-## 🎨 UI/UX & DESIGN
+<div align="center">
+### 🎨 UI/UX DESIGN SYSTEM
+
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-0A0A0A?style=for-the-badge&logo=adobexd)
 
+</div>
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 # 🚀 PROJECTS
@@ -104,12 +107,14 @@
 ✨ Smart water monitoring system  
 → IoT sensors • analytics • alert system  
 
+<p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaliza-e&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaliza-e&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Kaliza-e&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
