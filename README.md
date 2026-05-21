@@ -78,7 +78,7 @@
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
-##🎨 UI/UX DESIGN SYSTEM
+## 🎨 Ui&Ux Design System
 
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva)
