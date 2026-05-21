@@ -9,7 +9,7 @@
 
 ---
 
-# 🌐 DIGITAL IDENTITY
+# 🌐 Who's Kaliza?
 
 > 💡 I design and build **scalable systems, intuitive interfaces, and intelligent digital solutions** that connect real-world problems to clean technology.
 
@@ -23,13 +23,13 @@
 # 🛰️ CURRENT MISSION
 
 ### 🔭 What I’m building
-- 🛡️ SecureShake — secure communication system  
-- 🌍 Terimbere — empowerment platform  
-- 📊 IsokoSense — smart market insights system  
+- 🛡️ SecureShake —emergency alerting mobile app
+- 🌍 Terimbere — cooperative management system 
+- 📊 IsokoSense —real-time water monitoring and prevention system
 
 ### 🌱 What I’m learning
 - System Design & Scalable Architecture  
-- Advanced Backend Engineering (APIs, microservices)  
+- Advanced Backend Engineering 
 - Databases (SQL + NoSQL optimization)  
 - UI/UX interaction psychology  
 - IoT + embedded systems integration  
@@ -66,15 +66,15 @@
 <p align="center">
 
 ### 🛡️ SecureShake
-Secure real-time communication system  
+Emergency Alert in unsafe zones
 → Authentication • Encryption • APIs  
 
 ### 🌍 Terimbere
-Community empowerment digital platform  
+Cooperative management system
 → UI/UX focused • Scalable backend  
 
 ### 📊 IsokoSense
-Smart market intelligence system  
+Real time water health and safety
 → Data analysis • Dashboard UI • Insights  
 
 </p>
@@ -109,7 +109,7 @@ I believe in:
 
 ---
 
-# 💼 HIRE ME / COLLABORATION ZONE
+# 💼 HIRE ME
 
 If you're looking for someone who can:
 - Build **full-stack applications**
@@ -143,15 +143,13 @@ If you're looking for someone who can:
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE (MOTION EFFECT)
+# 🐍 CONTRIBUTIONS
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
-
-# ⚡ FINAL CYBER FOOTER
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
