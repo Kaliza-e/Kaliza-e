@@ -112,13 +112,13 @@
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
 ## Github Analytics
-<!--<p align="center">
+<<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaliza-e&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaliza-e&layout=compact&theme=tokyonight&hide_border=true" />
-</p>-->
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kaliza-e&theme=tokyonight&hide_border=true" />
 </p>
