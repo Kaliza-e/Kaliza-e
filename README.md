@@ -27,8 +27,6 @@
   </a>
 </p>
 
----
-
 # 👋 About Me
 
 I'm **Kaliza Esther**, a Software Engineer from **Rwanda 🇷🇼** who enjoys turning ideas into useful digital products.
