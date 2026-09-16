@@ -9,6 +9,16 @@
   />
 </p>
 
+<!-- 🎤 Singing Girl -->
+
+<p align="center">
+  <img
+    src="./assets/singing-girl.gif"
+    width="220"
+    alt="Girl singing"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00CFFF&center=true&vCenter=true&width=850&lines=Building+meaningful+digital+products.;Technical+Lead+%40+RareBridge.;Full+Stack+Developer.;UI%2FUX+Designer.;Always+Learning+%26+Building+🚀"
@@ -19,13 +29,17 @@
   <a href="mailto:kalizaesther5@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-00CFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/Kaliza-e">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
 
 ---
 
