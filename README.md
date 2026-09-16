@@ -13,7 +13,7 @@
 
 <p align="center">
   <img
-    src="./assets/singing-girl.gif"
+    src="./assets/Esther.png"
     width="220"
     alt="Girl singing"
   />
