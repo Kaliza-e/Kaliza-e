@@ -5,69 +5,74 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:0F172A,100:00CFFF&text=KALIZA%20ESTHER&fontColor=ffffff&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20•%20Technical%20Lead%20•%20UI%2FUX%20Designer&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:0F172A,100:00CFFF&text=KALIZA%20ESTHER&fontColor=ffffff&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20•%20Technical%20Lead%20•%20Product%20Builder&descAlignY=58"
   />
 </p>
-
-<!-- 🎤 Singing Girl -->
 
 <p align="center">
   <img
     src="./assets/Esther.png"
     width="220"
-    alt="Girl singing"
+    alt="Kaliza Esther"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00CFFF&center=true&vCenter=true&width=850&lines=Building+meaningful+digital+products.;Technical+Lead+%40+RareBridge.;Full+Stack+Developer.;UI%2FUX+Designer.;Always+Learning+%26+Building+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1200&color=00CFFF&center=true&vCenter=true&width=900&lines=Software+Engineer+%26+Technical+Lead;Full+Stack+Developer;UI%2FUX+Designer;Building+solutions+with+real+impact;Always+learning%2C+building%2C+growing+🚀"
   />
 </p>
 
 <p align="center">
   <a href="mailto:kalizaesther5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00CFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-00CFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://github.com/Kaliza-e">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Kaliza--e-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://youtube.com/@kalizaesther8368">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kaliza-e&label=Profile+Views&color=00CFFF&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
 # 👋 About Me
 
-I'm **Kaliza Esther**, a Software Engineer from **Rwanda 🇷🇼** who enjoys turning ideas into useful digital products.
+Hello! I'm <strong>Kaliza Esther</strong>, a Software Engineer from <strong>Rwanda 🇷🇼</strong> with a passion for building meaningful digital products that solve real-world problems.
 
-I work across:
+I work at the intersection of:
 
 - 💻 Full Stack Development
 - ⚙️ Backend Engineering
 - 🎨 UI/UX & Product Design
 - 📱 Mobile Development
-- 🤖 AI & Emerging Technology
+- 🤖 AI & Emerging Technologies
 
-I’m especially interested in technology that creates **real-world impact**.
+I enjoy turning ideas into products that are not just functional, but also useful, beautiful, and impactful.
+
+> I believe in building with purpose, learning continuously, and creating technology that improves lives.
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 Current Focus
 
 <p align="center">
 
-| 🛡️ RareBridge | 📚 Tour | 🌍 OpportunityMap | 💊 E-Pharmacy |
-|:---:|:---:|:---:|:---:|
+| 🛡️ RareBridge  |       📚 Tour        | 🌍 OpportunityMap |   💊 E-Pharmacy   |
+| :------------: | :------------------: | :---------------: | :---------------: |
 | Technical Lead | Full Stack Developer | UI/UX & Tech Lead | Backend Developer |
 
 </p>
+
+I currently contribute to products focused on healthcare, education, community impact, and digital access across Africa.
 
 ---
 
@@ -76,41 +81,41 @@ I’m especially interested in technology that creates **real-world impact**.
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,c,cpp" alt="Programming languages" />
 </p>
 
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend stack" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" alt="Backend stack" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="Databases" />
 </p>
 
 ### 📱 Mobile & Design
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,figma" />
+  <img src="https://skillicons.dev/icons?i=react,figma" alt="Mobile and design tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" alt="Developer tools" />
 </p>
 
 ---
@@ -118,56 +123,62 @@ I’m especially interested in technology that creates **real-world impact**.
 # 🌟 Featured Projects
 
 ### 🛡️ RareBridge
+
 **Rare disease information platform**
 
-Helping families access understandable and trustworthy rare disease information.
+A digital platform designed to help families access understandable and trustworthy information about rare diseases.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Figma`
+Tech: `Next.js` `React` `TypeScript` `Tailwind CSS` `Figma`
 
 ---
 
 ### 📚 Tour
+
 **Research & education platform**
 
-A platform for discovering, publishing, and sharing research.
+A platform for discovering, publishing, and sharing meaningful research and educational content.
 
-`Next.js` `NestJS` `PostgreSQL`
+Tech: `Next.js` `NestJS` `PostgreSQL`
 
 ---
 
 ### 🌍 OpportunityMap
+
 **Global opportunities platform**
 
-Connecting young people with educational, career, and leadership opportunities.
+A platform connecting young people with educational, leadership, and career opportunities around the world.
 
-`React` `Next.js` `Figma`
+Tech: `React` `Next.js` `Figma`
 
 ---
 
 ### 💊 Rwanda National E-Pharmacy
+
 **Digital pharmacy infrastructure**
 
-Backend services for medicine availability and digital pharmacy systems.
+Backend systems and digital infrastructure supporting medicine availability and access to pharmacy services.
 
-`NestJS` `Prisma` `PostgreSQL`
+Tech: `NestJS` `Prisma` `PostgreSQL`
 
 ---
 
 ### 💧 IsokoSense
+
 **IoT water monitoring**
 
-Monitoring water quality through sensors, dashboards, and alerts.
+A smart monitoring solution for tracking water quality, sensor data, and alerts in real time.
 
-`IoT` `Sensors` `Analytics`
+Tech: `IoT` `Sensors` `Analytics`
 
 ---
 
 ### 🚨 SecureShake
+
 **Emergency mobile application**
 
-Rapid emergency alerts and communication.
+A mobile-first emergency solution focused on rapid communication and timely alerts.
 
-`React Native` `APIs`
+Tech: `React Native` `APIs`
 
 ---
 
@@ -175,15 +186,15 @@ Rapid emergency alerts and communication.
 
 <p align="center">
 
-🤖 **Artificial Intelligence**  
-❤️ **Digital Health**  
-📚 **Research & Education**  
-⚙️ **System Architecture**  
-📱 **Mobile Engineering**  
-☁️ **Cloud & DevOps**  
-🌍 **Social Impact Technology**  
-🎨 **UI/UX & Product Design**  
-🛰️ **IoT**
+🤖 <strong>Artificial Intelligence</strong>  
+❤️ <strong>Digital Health</strong>  
+📚 <strong>Research & Education</strong>  
+⚙️ <strong>System Architecture</strong>  
+📱 <strong>Mobile Engineering</strong>  
+☁️ <strong>Cloud & DevOps</strong>  
+🌍 <strong>Social Impact Technology</strong>  
+🎨 <strong>UI/UX & Product Design</strong>  
+🛰️ <strong>IoT</strong>
 
 </p>
 
@@ -192,7 +203,7 @@ Rapid emergency alerts and communication.
 # 🎓 Education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rwanda%20Coding%20Academy-Computer%20Science%20%26%20Software%20Engineering-112250?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rwanda%20Coding%20Academy-Computer%20Science%20%26%20Software%20Engineering-112250?style=for-the-badge" alt="Rwanda Coding Academy"/>
 </p>
 
 ---
@@ -200,10 +211,10 @@ Rapid emergency alerts and communication.
 # 🏆 Achievement
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Yale%20Young%20African%20Scholars-YYAS-00CFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Yale%20Young%20African%20Scholars-YYAS-00CFFF?style=for-the-badge" alt="YYAS"/>
 </p>
 
-College preparation & leadership program.
+College preparation and leadership program focused on academic excellence and community growth.
 
 ---
 
@@ -213,10 +224,12 @@ College preparation & leadership program.
   <img
     src="https://github-readme-stats.vercel.app/api?username=Kaliza-e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
+    alt="GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaliza-e&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
+    alt="Top languages"
   />
 </p>
 
@@ -224,6 +237,7 @@ College preparation & leadership program.
   <img
     src="https://streak-stats.demolab.com?user=Kaliza-e&theme=tokyonight&hide_border=true"
     width="70%"
+    alt="GitHub streak"
   />
 </p>
 
@@ -235,6 +249,7 @@ College preparation & leadership program.
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Kaliza-e&theme=tokyo-night&hide_border=true&area=true"
     width="100%"
+    alt="Contribution graph"
   />
 </p>
 
@@ -252,30 +267,25 @@ College preparation & leadership program.
 
 ---
 
-# 🤝 Let's Build Something
+# 🤝 Let’s Build Something
 
-Have an interesting idea, project, startup, research opportunity, or collaboration?
+Have an idea, project, startup concept, research opportunity, or collaboration in mind?
 
-**I'd love to hear from you.**
+I’d love to connect and build something meaningful together.
 
 <p align="center">
-
-<a href="mailto:kalizaesther5@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email-Let's%20Talk-00CFFF?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Kaliza-e">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Kaliza--e-181717?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0077B5?style=for-the-badge"/>
-</a>
-
-<a href="https://youtube.com/@kalizaesther8368">
-  <img src="https://img.shields.io/badge/▶%20YouTube-Subscribe-FF0000?style=for-the-badge"/>
-</a>
-
+  <a href="mailto:kalizaesther5@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Let's%20Talk-00CFFF?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://github.com/Kaliza-e">
+    <img src="https://img.shields.io/badge/💻%20GitHub-Kaliza--e-181717?style=for-the-badge" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0077B5?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://youtube.com/@kalizaesther8368">
+    <img src="https://img.shields.io/badge/▶%20YouTube-Subscribe-FF0000?style=for-the-badge" alt="YouTube"/>
+  </a>
 </p>
 
 <p align="center">
@@ -287,6 +297,7 @@ Have an interesting idea, project, startup, research opportunity, or collaborati
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0B1020&height=120&section=footer"
+    alt="Footer banner"
   />
 </p>
 
